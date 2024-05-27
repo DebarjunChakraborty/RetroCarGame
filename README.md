@@ -22,4 +22,5 @@ To run this game locally on your machine, follow these steps:
 
 1. Clone this repository to your local machine using Git.
    ```sh
-   git clone https://github.com/yourusername/retro-car-game.git
+   git clone https://github.com/DebarjunChakraborty/RetroCarGame.git
+   
